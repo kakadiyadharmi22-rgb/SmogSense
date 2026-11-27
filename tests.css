@@ -1,0 +1,6 @@
+body { font: 15px/1.5 system-ui, sans-serif; margin: 0; background: #f4f1ea; color: #1b2a2c; }
+main { max-width: 860px; margin: 0 auto; padding: 24px 16px; }
+#summary { font-size: 1.2rem; font-weight: 700; }
+ol { padding-left: 1.5rem; }
+.pass { color: #1b6e3a; }
+.fail { color: #b3261e; font-weight: 600; }
